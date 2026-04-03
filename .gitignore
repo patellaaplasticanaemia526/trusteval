@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+*.whl
+
+# Node
+node_modules/
+dashboard/frontend/dist/
+.next/
+
+# Environment
+.env
+.env.local
+*.env
+
+# TrustEval-specific
+~/.trusteval/keys.enc
+*.trusteval-report
+trusteval_data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+
+# Build
+*.log
+*.sqlite3
+
+# Build artifacts & specs
+PROJECT.md
+.claude/
